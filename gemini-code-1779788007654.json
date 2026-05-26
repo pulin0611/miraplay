@@ -1,0 +1,15 @@
+{
+  "spider": "https://www.252035.xyz/xs/tvbox/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "Nostr",
+      "name": "Nostr推荐Web页",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+    }
+  ]
+}
